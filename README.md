@@ -1,11 +1,3 @@
-[![Im-Isaac - SpireRoundReports](https://img.shields.io/static/v1?label=Im-Isaac&message=SpireRoundReports&color=blue&logo=github)](https://github.com/Im-Isaac/SpireRoundReports "Go to GitHub repo")
-[![stars - SpireRoundReports](https://img.shields.io/github/stars/Im-Isaac/SpireRoundReports?style=social)](https://github.com/Im-Isaac/SpireRoundReports)
-[![forks - SpireRoundReports](https://img.shields.io/github/forks/Im-Isaac/SpireRoundReports?style=social)](https://github.com/Im-Isaac/SpireRoundReports)
-
-
-_Repo metadata_
-
-
 [![GitHub release](https://img.shields.io/github/release/Im-Isaac/SpireRoundReports?include_prereleases=&sort=semver&color=blue)](https://github.com/Im-Isaac/SpireRoundReports/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 

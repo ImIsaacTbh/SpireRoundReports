@@ -8,6 +8,7 @@ _Repo metadata_
 
 [![GitHub release](https://img.shields.io/github/release/Im-Isaac/SpireRoundReports?include_prereleases=&sort=semver&color=blue)](https://github.com/Im-Isaac/SpireRoundReports/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 ##Originally made by ThunderMaker300
 
 # Spire Round Reports

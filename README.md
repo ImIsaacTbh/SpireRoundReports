@@ -1,15 +1,7 @@
-[![Im-Isaac - SpireRoundReports](https://img.shields.io/static/v1?label=Im-Isaac&message=SpireRoundReports&color=blue&logo=github)](https://github.com/Im-Isaac/SpireRoundReports "Go to GitHub repo")
-[![stars - SpireRoundReports](https://img.shields.io/github/stars/Im-Isaac/SpireRoundReports?style=social)](https://github.com/Im-Isaac/SpireRoundReports)
-[![forks - SpireRoundReports](https://img.shields.io/github/forks/Im-Isaac/SpireRoundReports?style=social)](https://github.com/Im-Isaac/SpireRoundReports)
-
-
-_Repo metadata_
-
-
 [![GitHub release](https://img.shields.io/github/release/Im-Isaac/SpireRoundReports?include_prereleases=&sort=semver&color=blue)](https://github.com/Im-Isaac/SpireRoundReports/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-##Originally made by ThunderMaker300
+## Originally made by ThunderMaker300
 
 # Spire Round Reports
  An SCP:SL Exiled plugin which generates reports at the end of each round, and shares them in your Discord server. Also includes end-of-round broadcasts, with support for over 20 different round statistics displayed in these broadcasts.  This plugin supports Serpent's Hand and UIU Rescue Squad, and will display stats accordingly.

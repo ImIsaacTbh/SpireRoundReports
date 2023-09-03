@@ -1,8 +1,16 @@
-![VERSION](https://img.shields.io/github/v/release/Thundermaker300/RoundReports?include_prereleases&style=for-the-badge)
-![DOWNLOADS](https://img.shields.io/github/downloads/Thundermaker300/RoundReports/total?style=for-the-badge)
-[![DISCORD](https://img.shields.io/discord/1060274824330620979?label=Discord&style=for-the-badge)](https://discord.gg/3j54zBnbbD)
+[![Im-Isaac - SpireRoundReports](https://img.shields.io/static/v1?label=Im-Isaac&message=SpireRoundReports&color=blue&logo=github)](https://github.com/Im-Isaac/SpireRoundReports "Go to GitHub repo")
+[![stars - SpireRoundReports](https://img.shields.io/github/stars/Im-Isaac/SpireRoundReports?style=social)](https://github.com/Im-Isaac/SpireRoundReports)
+[![forks - SpireRoundReports](https://img.shields.io/github/forks/Im-Isaac/SpireRoundReports?style=social)](https://github.com/Im-Isaac/SpireRoundReports)
 
-# Round Reports
+
+_Repo metadata_
+
+
+[![GitHub release](https://img.shields.io/github/release/Im-Isaac/SpireRoundReports?include_prereleases=&sort=semver&color=blue)](https://github.com/Im-Isaac/SpireRoundReports/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+##Originally made by ThunderMaker300
+
+# Spire Round Reports
  An SCP:SL Exiled plugin which generates reports at the end of each round, and shares them in your Discord server. Also includes end-of-round broadcasts, with support for over 20 different round statistics displayed in these broadcasts.  This plugin supports Serpent's Hand and UIU Rescue Squad, and will display stats accordingly.
   
 This plugin uses [paste.ee](https://paste.ee/) for hosting reports. This service is not affiliated with RoundReports, and they have their own Terms of Service you must abide by when using this plugin. By default, reports automatically expire after 30 days; however, this can be configured, and reports can be saved with a simple tool like the [Wayback Machine](https://web.archive.org/).  
